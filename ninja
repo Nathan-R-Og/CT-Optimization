@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+cd chameleonTwistv1.0-JP
+./ninja
+cd -
