@@ -4,8 +4,6 @@
 extern unsigned char Global_poleWood_ci8_PAL[]; // pole palette
 extern unsigned char Global_poleWood_ci8_PNG[]; // pole img
 //build names
-extern unsigned char D_02028D30_Global[]; // pole palette
-extern unsigned char D_02028528_Global[]; // pole img
 extern Vtx D_800FE7D8_Global[];
 extern Vtx D_800FE8C8_Global[];
 

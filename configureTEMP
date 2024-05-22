@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+rm -rf chameleonTwistv1.0-JP
+git clone --recursive https://github.com/Nathan-R-Og/NathaCT
+mv NathaCT chameleonTwistv1.0-JP
+python3 configure.py -c
+cd chameleonTwistv1.0-JP
+./configure $@ --chckrecalc
+cd -
+python3 configure.py -g

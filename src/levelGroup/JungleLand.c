@@ -2745,7 +2745,6 @@ unsigned char JungleLand_swampWater_ci4_PAL[] = {
 #include "assets/levelGroup/JungleLand/water2/water2.colS.inc.c"
 
 #include "assets/levelGroup/JungleLand/water2/water2.colH.inc.c"
-s32 alignment_Pad_JL[] = {0, 0};
 
 
 #include "assets/levelGroup/JungleLand/jlScope2/jlScope2.light.inc.c"
@@ -2877,5 +2876,3 @@ Mtx JungleLand_IMtx102 = IDENTITY;
 #include "assets/levelGroup/JungleLand/anim/actors/fish/fishTailInit.animArr.inc.c"
 
 #include "assets/levelGroup/JungleLand/anim/actors/fish/fishTailInitPointers.animP.inc.c"
-
-s32 alignment_Pad_JL2[] = {0, 0};
